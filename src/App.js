@@ -7,7 +7,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Learn React in VTC Academy!
+          Learn React in VTC Academy!33
         </p>
         <a
           className="App-link"
